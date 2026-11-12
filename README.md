@@ -1,5 +1,5 @@
-# 빅데이터분석 02분반 - [과제3] 특성 공학(Feature Engineering) 파이프라인 구현 및 성능 비교 실험
-
+# feature-engineering-assignment
+## 빅데이터분석 02분반 - [과제3] 특성 공학(Feature Engineering) 파이프라인 구현 및 성능 비교 실험
 ## 데이터셋 다운로드
 
 본 프로젝트에서는 Kaggle의 **Titanic - Machine Learning from Disaster** 데이터셋을 사용하였습니다.
